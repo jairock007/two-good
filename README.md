@@ -42,7 +42,7 @@ This project is an animated website that showcases various front-end skills, inc
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/animated-website.git
+   git clone (https://github.com/jairock007/two-good/tree/main)
    cd animated-website
    ```
 
